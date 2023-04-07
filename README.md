@@ -65,6 +65,10 @@
 ---
 ## MISC
 
+### DESIGN
+
+[16 little UI Rules](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
+
 ### HTTP
 
 [MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
