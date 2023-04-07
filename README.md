@@ -39,6 +39,10 @@
 
 
 
+### TYPESCRIPT
+
+[Beginner's Typescript](https://www.totaltypescript.com/tutorials)
+
 
 ---
 ## REACT
