@@ -69,6 +69,8 @@
 
 [16 little UI Rules](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
 
+[Real-time Colors: Choose a Color Palette](https://codepen.io/Juxtopposed/pen/VwGovbY)
+
 ### HTTP
 
 [MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
