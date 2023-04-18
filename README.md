@@ -80,5 +80,15 @@
 [Markdown Guide](https://www.markdownguide.org/)
 
 
+### TOOLS
 
+https://readme.so/de
+
+https://www.toptal.com/developers/gitignore/
+
+https://excalidraw.com/
+
+https://www.figma.com/
+
+https://profilinator.rishav.dev/
 
