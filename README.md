@@ -6,7 +6,7 @@
 
 [How To Ask](https://stackoverflow.com/help/how-to-ask)
 
-[VSCode](https://code.visualstudio.com/docs)
+[Visual Studio Code](https://code.visualstudio.com/docs)
 
 
 
