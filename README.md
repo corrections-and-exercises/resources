@@ -8,6 +8,8 @@
 
 [Visual Studio Code](https://code.visualstudio.com/docs)
 
+[VSCode Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&start=1)
+
 
 
 ---
@@ -24,6 +26,8 @@
 
 [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+[CSS - Battle](https://cssbattle.dev/)
+
 
 ### Flexbox
 
@@ -38,6 +42,12 @@
 ## JAVASCRIPT
 
 [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[ColorCode - JS](https://www.youtube.com/watch?v=jnME98ckDbQ&list=UULFHa8J-xnRYOg5VuudfWpBgg&index=18)
+
+[Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+[Asynchronous JS - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 
 
