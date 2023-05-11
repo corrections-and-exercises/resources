@@ -18,6 +18,8 @@
 
 [MDN - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+[Learn HTML](https://web.dev/learn/html/)
+
 
 
 
