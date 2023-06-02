@@ -61,6 +61,7 @@
 ---
 ## REACT
 
+[State Management](https://kentcdodds.com/blog/application-state-management-with-react)
 
 
 
