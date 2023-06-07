@@ -90,6 +90,8 @@
 
 [Adobe Color Themes](https://color.adobe.com/de/explore)
 
+[Font Pair](https://www.fontpair.co/)
+
 ### HTTP
 
 [MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
