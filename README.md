@@ -51,6 +51,8 @@
 
 [Asynchronous JS - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
+[JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
+
 
 
 ### TYPESCRIPT
