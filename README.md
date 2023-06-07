@@ -94,6 +94,8 @@
 
 [Font Pair](https://www.fontpair.co/)
 
+[Font Awesome](https://fontawesome.com/icons)
+
 ### HTTP
 
 [MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
