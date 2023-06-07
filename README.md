@@ -10,6 +10,8 @@
 
 [VSCode Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&start=1)
 
+[Internet Fundamentals](https://www.internetfundamentals.com/watch/)
+
 
 
 ---
