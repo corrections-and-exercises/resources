@@ -84,6 +84,10 @@
 ---
 ## MISC
 
+### PATTERNS
+
+[JS | React Patterns](https://www.patterns.dev/)
+
 ### DESIGN
 
 [16 little UI Rules](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
