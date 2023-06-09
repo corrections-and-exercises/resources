@@ -55,6 +55,8 @@
 
 [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 
+[Visualized](https://dev.to/lydiahallie)
+
 
 
 ### TYPESCRIPT
