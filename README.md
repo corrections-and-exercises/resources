@@ -57,6 +57,8 @@
 
 [Visualized](https://dev.to/lydiahallie)
 
+[Desctructuring](https://dmitripavlutin.com/javascript-object-destructuring/#1-the-need-for-object-destructuring)
+
 
 
 ### TYPESCRIPT
