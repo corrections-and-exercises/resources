@@ -55,7 +55,7 @@
 
 [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 
-[Visualized](https://dev.to/lydiahallie)
+[Visualized by Lydia Hallie](https://dev.to/lydiahallie)
 
 [Desctructuring](https://dmitripavlutin.com/javascript-object-destructuring/#1-the-need-for-object-destructuring)
 
