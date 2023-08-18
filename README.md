@@ -104,6 +104,8 @@
 
 [Font Awesome](https://fontawesome.com/icons)
 
+[Typescale](https://typescale.com/)
+
 ### HTTP
 
 [MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
