@@ -33,9 +33,16 @@
 [CSS - Battle](https://cssbattle.dev/)
 
 
+
 ### Flexbox
 
 [Interactive Guide To Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+
+[Flexbox - CSS Tricks ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### GRID
+
+[Grid - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Frameworks
 
