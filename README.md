@@ -78,6 +78,8 @@
 
 [State Management](https://kentcdodds.com/blog/application-state-management-with-react)
 
+[React Derived State](https://medium.com/comsystoreply/totally-in-sync-using-derived-state-in-react-applications-98cbd5acaa91)
+
 
 
 ---
