@@ -72,6 +72,8 @@
 
 [Beginner's Typescript](https://www.totaltypescript.com/tutorials)
 
+[React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+
 
 ---
 ## REACT
