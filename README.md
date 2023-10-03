@@ -66,6 +66,8 @@
 
 [Desctructuring](https://dmitripavlutin.com/javascript-object-destructuring/#1-the-need-for-object-destructuring)
 
+[CommonJS vs ESM](https://www.youtube.com/watch?v=6_JNPmjSevo)
+
 [You don‘t know JS yet](https://github.com/getify/You-Dont-Know-JS)
 
 [Eloquent JavaScript](https://eloquentjavascript.net/)
