@@ -111,6 +111,8 @@
 
 [JS | React Patterns](https://www.patterns.dev/)
 
+[Design Patterns](https://refactoring.guru/design-patterns/catalog)
+
 ### DESIGN
 
 [16 little UI Rules](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
