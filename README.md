@@ -80,6 +80,8 @@
 
 [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
+[React Config](https://www.totaltypescript.com/tsconfig-cheat-sheet)
+
 
 ---
 ## REACT
