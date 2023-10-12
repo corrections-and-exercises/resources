@@ -68,6 +68,8 @@
 
 [CommonJS vs ESM](https://www.youtube.com/watch?v=6_JNPmjSevo)
 
+[ESModules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+
 [You don‘t know JS yet](https://github.com/getify/You-Dont-Know-JS)
 
 [Eloquent JavaScript](https://eloquentjavascript.net/)
