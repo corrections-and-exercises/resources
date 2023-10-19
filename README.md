@@ -87,6 +87,7 @@
 
 ---
 ## REACT
+[What does React actually do?](https://betterprogramming.pub/what-does-react-actually-do-c9412c08bfe6)
 
 [State Management](https://kentcdodds.com/blog/application-state-management-with-react)
 
