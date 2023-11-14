@@ -8,8 +8,6 @@
 
 [Visual Studio Code](https://code.visualstudio.com/docs)
 
-[VSCode Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&start=1)
-
 [Internet Fundamentals](https://www.internetfundamentals.com/watch/)
 
 ---
@@ -19,6 +17,9 @@
 [Working with JavaScript](https://code.visualstudio.com/docs/nodejs/working-with-javascript)
 
 [Useful Shortcuts](https://www.youtube.com/watch?v=zPK-kGYprnE)
+
+[VSCode Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&start=1)
+
 
 
 ---
