@@ -12,6 +12,13 @@
 
 [Internet Fundamentals](https://www.internetfundamentals.com/watch/)
 
+---
+
+## VSCODE
+
+[Working with JavaScript](https://code.visualstudio.com/docs/nodejs/working-with-javascript)
+
+[Useful Shortcuts](https://www.youtube.com/watch?v=zPK-kGYprnE)
 
 
 ---
